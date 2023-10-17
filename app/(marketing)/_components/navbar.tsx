@@ -1,7 +1,6 @@
 "use client";
 import { useScrollTop } from "@/app/hooks/use-scroll-top";
 import { cn } from "@/lib/utils";
-import React from "react";
 import Logo from "./logo";
 import { ModeToggle } from "@/components/mode-toggle";
 import { useConvexAuth } from "convex/react";
